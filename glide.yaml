@@ -1,0 +1,6 @@
+package: github.com/go-lession
+import: []
+testImport:
+- package: github.com/stretcher/testify
+  subpackages:
+  - assert
