@@ -1,4 +1,4 @@
-package main
+package go_release
 
 import "fmt"
 import "github.com/go-lession/function"
@@ -65,7 +65,7 @@ func main3() {
 	fmt.Println(msval)
 }
 
-func main() {
+func main4() {
 	val := []string{"1", "2"}
 	fmt.Println(reflect.TypeOf(val))
 	fmt.Println(reflect.TypeOf(val).Kind())

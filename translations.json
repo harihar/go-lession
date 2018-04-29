@@ -1,0 +1,128 @@
+{
+  "Countries": {
+    "AL": "Albania",
+    "AT": "Austria",
+    "BA": "Bosnia and Herzegovina",
+    "BE": "Belgium",
+    "BG": "Bulgaria",
+    "BR": "Brazil",
+    "CA": "Canada",
+    "CH": "Switzerland",
+    "CN": "China",
+    "CY": "Cyprus",
+    "CZ": "Czech Republic",
+    "DE": "Germany",
+    "DK": "Denmark",
+    "EE": "Estonia",
+    "ES": "Spain",
+    "FI": "Finland",
+    "FR": "France",
+    "GB": "United Kingdom",
+    "GI": "Gibraltar",
+    "GR": "Greece",
+    "HK": "Hong Kong",
+    "HR": "Croatia",
+    "HU": "Hungary",
+    "IC": "Canarian Islands",
+    "IE": "Ireland",
+    "IS": "Iceland",
+    "IT": "Italy",
+    "JP": "Japan",
+    "KR": "South Korea",
+    "LT": "Lithuania",
+    "LU": "Luxembourg",
+    "LV": "Latvia",
+    "MK": "Macedonia",
+    "MT": "Malta",
+    "MX": "Mexico",
+    "NL": "Netherlands",
+    "NO": "Norway",
+    "PL": "Poland",
+    "PT": "Portugal",
+    "RE": "Reunion",
+    "RO": "Romania",
+    "RS": "Serbia",
+    "RU": "Russia",
+    "SA": "Saudi Arabia",
+    "SE": "Sweden",
+    "SI": "Slovenia",
+    "SK": "Slovakia",
+    "TR": "Turkey",
+    "TW": "Taiwan",
+    "UA": "Ukraine",
+    "US": "United States"
+  },
+  "ProfileForm": {
+    "ErrorPage": {
+      "btnLabel": "Go Back To Home",
+      "description": "We are sorry but the page you are looking for does not exist.",
+      "header": "Page Not Found"
+    },
+    "FifthPageForm": {
+      "agreeDataOne": "",
+      "checboxText": "",
+      "header": "complete registration",
+      "next": "submit/finish",
+      "privercy": "",
+      "privercyContent": ""
+    },
+    "FirstPageForm": {
+      "chooseLanguage": "choose the language",
+      "country": "country",
+      "header": "Create your user account.",
+      "language": "language",
+      "next": "Continue"
+    },
+    "FourthPageForm": {
+      "details": "I have read and accept the General Terms and Conditions and the Privacy Policy.",
+      "error": "",
+      "header": "General terms and conditions and data protection consent.",
+      "modelContent": "not provided.",
+      "modelTitle": "",
+      "next": "Continue"
+    },
+    "SecondPageForm": {
+      "DOB": "Date of birth",
+      "Name": "Name",
+      "Salutation": "Salutation",
+      "SalutationInput": "Please Choose",
+      "Surname": "Surname",
+      "dateInput": "JJJJ.MM.TT",
+      "header": "Your personal information.",
+      "next": "continue",
+      "nickName": "NickName",
+      "notificationBar": {
+        "description": "To use certain services, you must go through the Volkswagen Ident procedure. Your identity will be checked by a Volkswagen Service Partner or via video chat with a customer service representative. Further information can be found in the Car-Net portal. If you want to carry Volkswagen Ident, we need your date of birth."
+      },
+      "tooltipDOB": "Please Choose Date of Birth"
+    },
+    "ThirdPageForm": {
+      "details": "Please create a 4-digit security PIN (S-PIN) to protect your user account.\nThe S-PIN is an additional security measure and protects particularly sensitive services against unauthorized use.",
+      "error": "",
+      "header": "Your security PIN.",
+      "next": "continue"
+    },
+    "common": {
+      "conditionText": "Your personal information is stored in the central Volkswagen ID portal and can be viewed and changed there.",
+      "imprintLabel": "Imprint",
+      "invalid": "SPIN is invalid",
+      "legalLabel": "Legal",
+      "loading": "Loading",
+      "mandatory": "mandatory",
+      "required": ""
+    },
+    "goBack": {
+      "header": ""
+    }
+  },
+  "Spin": {
+    "description": "",
+    "label": "Security-PIN",
+    "submitLabel": "Submit"
+  },
+  "Suffix": {
+    "MR": "salutations for Mr",
+    "MRS": "salutations for Mrs",
+    "MS": "salutations for Ms"
+  }
+}
